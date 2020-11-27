@@ -1,0 +1,7 @@
+domain: thrimbda.com
+repo: github.com/thrimbda/fiber-controller
+resources:
+- group: thecores
+  kind: Fiber
+  version: v1beta1
+version: "2"

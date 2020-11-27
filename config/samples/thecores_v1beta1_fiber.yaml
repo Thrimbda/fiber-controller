@@ -1,0 +1,7 @@
+apiVersion: thecores.thrimbda.com/v1beta1
+kind: Fiber
+metadata:
+  name: fiber-sample
+spec:
+  # Add fields here
+  foo: bar
